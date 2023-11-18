@@ -1,0 +1,22 @@
+<?php
+return [
+    'add_new_category'=>'Add New Category',
+    'edit_new_category'=>'  Edit Category ',
+    "name" => 'Name',
+    'name_en'=>'name [en] ',
+    'image'=>'Image',
+    'status'=>'Status',
+    'popular'=>'Popular',
+    'description'=>'Description',
+    'description_en'=>'Description  [en] ',
+    'meta_title'=>' Meta Title  ',
+    'meta_title_en'=>'   Meta Title [en]',
+    'meta_description'=>' Meta Description ',
+    'meta_description_en'=>'  Meta Description [en]',
+    'keywords'=>' Key Words  ',
+    'keywords_title'=>'between words with [,]',
+     'showing'=>'Show',
+    'hidden'=>'hidden',
+    'popular'=>'Popular',
+    'default'=>'Default',
+];

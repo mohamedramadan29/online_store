@@ -1,0 +1,9 @@
+@extends('website.layouts.master')
+@section('title')
+    الرئيسية
+@endsection
+@section('contetn')
+    @include('website.sections.slider')
+    @include('website.sections.trend')
+    @include('website.sections.category_trend')
+@endsection
